@@ -1,7 +1,4 @@
 # When to use?
-#
-
-
 
 # notifier interface defines what methods should the classes include
 # in this case notify()
